@@ -116,4 +116,3 @@ info-secretary-android/
 - 🔸 로그인 세션 유지 (쿠키 지원)
 - 🔸 Emergent 배지 자동 숨김
 
-- 
